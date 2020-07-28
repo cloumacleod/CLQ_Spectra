@@ -1,0 +1,47 @@
+#CLQs that have lost/gained broad Hbeta from vis. inspection of QSfit
+# of followup spectrum:
+#This list includes all those that by eye seemed like they lacked
+# broad Hbeta, even if the line quality flag was not set.
+#Second column:
+# fwhm upper lim on hb_br in km/s
+#Third column:
+# forced hb_br velocity offset in km/s
+J000904 0 0 0 0
+J074305	0 0 0 0
+J074511	0 0 0 0
+J092702	0 0 0 0
+J103904	0 0 0 0
+J141213	0 0 0 0
+J153142	0 0 0 0
+J153612	0 0 0 0
+J153734	0 0 0 0
+J154318	0 0 0 0
+J160111	0 0 0 0
+J161156	0 0 0 0
+J161407	0 0 0 0
+J164920	0 0 0 0
+J165532	0 0 0 0
+J210200	0 0 0 0
+J220537	0 0 0 0
+J233843	0 0 0 0
+J235107	0 0 0 0
+J001206	0 0 0 0
+J002311	0 0 0 0
+J002450	0 0 0 0
+J004339	0 0 0 0
+J074719	0 0 0 0
+J083406	0 0 0 0
+J090104	0 0 0 0
+J092223	0 0 0 0
+J094132	0 0 0 0
+J153912	0 0 0 0
+J223133	0 0 0 0
+J224829	0 0 0 0
+J225240	0 0 0 0
+J231742	0 0 0 0
+J105822	0 0 0 0
+J111329	0 0 0 0
+J124210	0 0 0 0
+J143455	0 0 0 0
+J162415 0 0 0 0
+J144702 0 0 0 0

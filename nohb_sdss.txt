@@ -1,0 +1,11 @@
+#CLQs that have lost/gained broad Hbeta from vis. inspection of QSfit
+# of SDSS spectrum:
+#Second column:
+# fwhm upper lim on hb_br in km/s
+#Third column:
+# forced hb_br velocity offset in km/s
+J094132 0 0 0 0
+J214852	0 0 0 0
+J224017	0 0 0 0
+J234623	0 0 0 0
+J105553 0 0 0 0
